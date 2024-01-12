@@ -1,2 +1,7 @@
 hello--- fifa
+<<<<<<< Updated upstream
 munich
+=======
+lewandowski
+sathesh kumar
+>>>>>>> Stashed changes
